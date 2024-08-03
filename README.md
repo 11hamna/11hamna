@@ -30,7 +30,8 @@ A supportive chatbot for mental health assistance.
 📚 Trained on the Kaggle dataset
 🤖 Implemented logistic regression from scratch
 💬 Effectively handles user queries on mental health topics
-View Project | Try it out
+**[View Project](https://github.com/11hamna/Mental_Health_Assistant_Chabot)**
+
 # 4. NLP with BLOOMZ Model
 Implemented various NLP tasks using the BLOOMZ model from Hugging Face.
 📝 Focus on text generation and comprehension
