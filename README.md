@@ -2,11 +2,12 @@
 # 👋 Hi, I'm Hamna Ramzan
 🚀 Aspiring Machine Learning Engineer | Python Enthusiast | Student Developer
 I'm trying to turn data into insights and code into innovation. Currently seeking internship opportunities to apply my skills and learn from industry experts!
+
 ##  💡 About Me
-🎓 Artificial Intelligence student passionate about AI and its real-world applications
-🌱 Always learning and exploring new technologies in the ML/AI space
-🔭 Working on projects that blend creativity with cutting-edge tech
-🛠️ Tech Stack
+Aspiring AI whisperer here, fluent in both human and machine languages!
+As an AI student, I'm on a mission to teach computers the art of small talk and maybe even sarcasm (results pending). When I'm not debugging my life choices, you'll find me geeking out over the latest tech trends and dreaming up ways to make AI more user-friendly than your average toaster.
+My goal? To create AI so intuitive, it'll finish your sentences before you do (in a non-creepy way, promise!).
+Let's connect and explore the wild world of AI together!
 
 
 
@@ -49,5 +50,5 @@ View Project | Demo
 
 # 📫 Let's Connect!
 I'm always excited to collaborate on interesting projects or discuss the latest in tech. Feel free to reach out!
-**[![LinkedIn](www.linkedin.com/in/hamna-ramzan-695131277)**
+**[LinkedIn](https://www.linkedin.com/in/hamna-ramzan-695131277/)**
 
