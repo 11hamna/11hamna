@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Hamna Ramzan
 🚀 Aspiring Machine Learning Engineer | Python Enthusiast | Student Developer
 I'm trying to turn data into insights and code into innovation. Currently seeking internship opportunities to apply my skills and learn from industry experts!
-# 💡 About Me
+##  💡 About Me
 🎓 Artificial Intelligence student passionate about AI and its real-world applications
 🌱 Always learning and exploring new technologies in the ML/AI space
 🔭 Working on projects that blend creativity with cutting-edge tech
@@ -12,12 +12,13 @@ I'm trying to turn data into insights and code into innovation. Currently seekin
 
 
 # 🏆 Featured Projects
-# 1. Sign Language Recognition
+## 1. Sign Language Recognition
 Real-time sign language to text converter using OpenCV and Teachable Machine.
 📊 Custom dataset of 8-9,000 hand gesture images per alphabet
 🎯 95% accurate model
 🖥️ Implemented on laptop for real-time translation
-View Project | Demo
+**[View Project](https://github.com/11hamna/Hand_Sign_Detection)**
+
 # 2. Facial Recognition and Emotion Detection
 Engineered systems for emotion detection and face recognition.
 🧠 Utilized LBPH algorithm
