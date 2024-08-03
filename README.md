@@ -19,32 +19,35 @@ Real-time sign language to text converter using OpenCV and Teachable Machine.
 🖥️ Implemented on laptop for real-time translation
 **[View Project](https://github.com/11hamna/Hand_Sign_Detection)**
 
-# 2. Facial Recognition and Emotion Detection
+## 2. Facial Recognition and Emotion Detection
 Engineered systems for emotion detection and face recognition.
 🧠 Utilized LBPH algorithm
 😊 Accurate emotion classification
 🔍 Robust face recognition capabilities
+**[View Project](https://github.com/11hamna/bloomz_experiment)**
 View Project | Demo
-# 3. Mental Health Chatbot
+## 3. Mental Health Chatbot
 A supportive chatbot for mental health assistance.
 📚 Trained on the Kaggle dataset
 🤖 Implemented logistic regression from scratch
 💬 Effectively handles user queries on mental health topics
 **[View Project](https://github.com/11hamna/Mental_Health_Assistant_Chabot)**
 
-# 4. NLP with BLOOMZ Model
+## 4. NLP with BLOOMZ Model
 Implemented various NLP tasks using the BLOOMZ model from Hugging Face.
 📝 Focus on text generation and comprehension
 🌐 Explored state-of-the-art language models
-View Project
-# 5. Sentiment Analysis for Movie Reviews
+**[View Project](https://github.com/11hamna/bloomz_experiment)**
+
+## 5. Sentiment Analysis for Movie Reviews
 Developed a high-accuracy sentiment analysis model for movie reviews.
 🎭 100% accuracy using RNNs and LSTM
 🎬 Custom dataset for movie review classification
+**[View Project](https://github.com/11hamna/bloomz_experiment)**
 View Project | Demo
-# 📊 GitHub Stats
+
 
 # 📫 Let's Connect!
 I'm always excited to collaborate on interesting projects or discuss the latest in tech. Feel free to reach out!
-[![LinkedIn](https://img.shields.
+**[![LinkedIn](www.linkedin.com/in/hamna-ramzan-695131277)**
 
